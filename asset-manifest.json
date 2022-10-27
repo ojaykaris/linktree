@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/linktree/static/css/main.36cf0945.css",
+    "main.css": "/linktree/static/css/main.e44935d3.css",
     "main.js": "/linktree/static/js/main.4dcfaa62.js",
     "static/js/787.55f350d7.chunk.js": "/linktree/static/js/787.55f350d7.chunk.js",
     "static/media/I4G-logo.svg": "/linktree/static/media/I4G-logo.601ff0479d970c740e8b7d7ba7821548.svg",
@@ -11,12 +11,12 @@
     "static/media/dots-horizontal.svg": "/linktree/static/media/dots-horizontal.2af13fa62624ad9f6952c87bb0fd1888.svg",
     "index.html": "/linktree/index.html",
     "static/media/share-Icon.svg": "/linktree/static/media/share-Icon.e3f81b496e21f13d54272e5772ace63b.svg",
-    "main.36cf0945.css.map": "/linktree/static/css/main.36cf0945.css.map",
+    "main.e44935d3.css.map": "/linktree/static/css/main.e44935d3.css.map",
     "main.4dcfaa62.js.map": "/linktree/static/js/main.4dcfaa62.js.map",
     "787.55f350d7.chunk.js.map": "/linktree/static/js/787.55f350d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36cf0945.css",
+    "static/css/main.e44935d3.css",
     "static/js/main.4dcfaa62.js"
   ]
 }
