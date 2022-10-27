@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/linktree/static/css/main.af76ddbc.css",
-    "main.js": "/linktree/static/js/main.4dcfaa62.js",
+    "main.js": "/linktree/static/js/main.0b142cea.js",
     "static/js/787.55f350d7.chunk.js": "/linktree/static/js/787.55f350d7.chunk.js",
     "static/media/I4G-logo.svg": "/linktree/static/media/I4G-logo.601ff0479d970c740e8b7d7ba7821548.svg",
     "static/media/profile__img.png": "/linktree/static/media/profile__img.5ff40e1b5d2b90077f44.png",
@@ -12,11 +12,11 @@
     "index.html": "/linktree/index.html",
     "static/media/share-Icon.svg": "/linktree/static/media/share-Icon.e3f81b496e21f13d54272e5772ace63b.svg",
     "main.af76ddbc.css.map": "/linktree/static/css/main.af76ddbc.css.map",
-    "main.4dcfaa62.js.map": "/linktree/static/js/main.4dcfaa62.js.map",
+    "main.0b142cea.js.map": "/linktree/static/js/main.0b142cea.js.map",
     "787.55f350d7.chunk.js.map": "/linktree/static/js/787.55f350d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af76ddbc.css",
-    "static/js/main.4dcfaa62.js"
+    "static/js/main.0b142cea.js"
   ]
 }
