@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/linktree/static/css/main.f9b4ec9d.css",
+    "main.js": "/linktree/static/js/main.4dcfaa62.js",
+    "static/js/787.55f350d7.chunk.js": "/linktree/static/js/787.55f350d7.chunk.js",
+    "static/media/I4G-logo.svg": "/linktree/static/media/I4G-logo.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/profile__img.png": "/linktree/static/media/profile__img.5ff40e1b5d2b90077f44.png",
+    "static/media/zuri-logo.svg": "/linktree/static/media/zuri-logo.fe365f435ac709b515e1114cc859cdb6.svg",
+    "static/media/slack.svg": "/linktree/static/media/slack.6fa75d08a444264c64393c623e71c055.svg",
+    "static/media/github.svg": "/linktree/static/media/github.05ffca422514a5bbf3ac752e4d893c57.svg",
+    "static/media/dots-horizontal.svg": "/linktree/static/media/dots-horizontal.2af13fa62624ad9f6952c87bb0fd1888.svg",
+    "index.html": "/linktree/index.html",
+    "static/media/share-Icon.svg": "/linktree/static/media/share-Icon.e3f81b496e21f13d54272e5772ace63b.svg",
+    "main.f9b4ec9d.css.map": "/linktree/static/css/main.f9b4ec9d.css.map",
+    "main.4dcfaa62.js.map": "/linktree/static/js/main.4dcfaa62.js.map",
+    "787.55f350d7.chunk.js.map": "/linktree/static/js/787.55f350d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b4ec9d.css",
+    "static/js/main.4dcfaa62.js"
+  ]
+}
