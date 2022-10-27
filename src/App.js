@@ -32,7 +32,11 @@ function App() {
       </div>
       <main className="main">
         <div className="container">
-          <Button link="#twitter" text="Twitter Link" id="btn__twitter" />
+          <Button
+            link="https://twitter.com/ojaykaris"
+            text="Twitter Link"
+            id="btn__twitter"
+          />
 
           <Button
             link="https://training.zuri.team/"
