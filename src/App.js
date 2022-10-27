@@ -18,7 +18,7 @@ function App() {
             Agbonika Ojone
           </h1>
           <h2 hidden id="slack">
-            Agbonika Ojone
+            ojaykaris
           </h2>
 
           <a href="#share" className="share-button share-button-desktop">
