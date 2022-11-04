@@ -1,0 +1,40 @@
+.contact-page {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 720px;
+}
+
+@media screen and (min-width: 768px) {
+  .contact-page {
+    padding: 92px 0;
+  }
+}
+
+.contact-page__title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: -0.02em;
+  color: #101828;
+}
+
+.contact-page__sub-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.contact-page__input {
+  min-width: 100% !important;
+}
+
+@media screen and (min-width: 768px) {
+  .contact-page__sub-text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .contact-page__input {
+    min-width: calc(50% - 12px) !important;
+  }
+}
