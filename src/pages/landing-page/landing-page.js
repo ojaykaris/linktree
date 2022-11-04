@@ -32,44 +32,45 @@ function LandingPage() {
       <main className="main">
         <div className="container">
           <Button
-            link="https://twitter.com/ojaykaris"
-            text="Twitter Link"
+            component="a"
+            href="https://twitter.com/ojaykaris"
             id="btn__twitter"
-          />
+          >
+            Twitter Link
+          </Button>
 
           <Button
-            link="https://training.zuri.team/"
-            text="Zuri Team"
+            component="a"
+            href="https://training.zuri.team/"
             id="btn__zuri"
-          />
+          >
+            Zuri Team
+          </Button>
 
+          <Button component="a" href="https://books.zuri.team/" id="books">
+            Zuri Books
+          </Button>
           <Button
-            link="https://books.zuri.team/"
-            text="Zuri Books"
-            id="books"
-          />
-          <Button
-            link="https://books.zuri.team/python-for-beginners?ref_id=Abonika ojone"
-            text="Python Books"
+            component="a"
+            href="https://books.zuri.team/python-for-beginners?ref_id=Abonika ojone"
             id="book__python"
-          />
+          >
+            Python Books
+          </Button>
+          <Button component="a" href="https://background.zuri.team/" id="pitch">
+            Background Check for Coders
+          </Button>
           <Button
-            link="https://background.zuri.team/"
-            text="Background Check for Coders"
-            id="pitch"
-          />
-          <Button
-            link="https://books.zuri.team/design-rules"
-            text="Design Books"
+            component="a"
+            href="https://books.zuri.team/design-rules"
             id="book__design"
-          />
+          >
+            Design Books
+          </Button>
 
-          <Button
-            link="/contact"
-            text="Contact Me"
-            id="contact"
-            component="link"
-          />
+          <Button component="link" to="/linktree/contact" id="contact">
+            Contact Me
+          </Button>
         </div>
       </main>
       <div className="social-section">

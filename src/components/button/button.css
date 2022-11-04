@@ -1,4 +1,4 @@
-.button {
+.link-button {
   background-color: var(--off-white);
   border: 1px solid var(--off-white);
   color: var(--black);
@@ -12,7 +12,39 @@
 }
 
 @media screen and (min-width: 768px) {
-  .button {
+  .link-button {
     font-weight: 600;
   }
+}
+
+.button {
+  min-width: 92px;
+  padding: 12px 20px;
+  background: #1570ef;
+  border: 1px solid #1570ef;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #175cd3;
+  border: 1px solid #175cd3;
+}
+
+.button:focus {
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05), 0px 0px 0px 4px #d1e9ff;
+}
+
+.button:disabled,
+.button--disabled {
+  cursor: default;
+  background: #b2ddff;
+  border: 1px solid #b2ddff;
 }
