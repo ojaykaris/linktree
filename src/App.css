@@ -8,6 +8,14 @@
   --black: #101828;
   --black100: #667085;
   --ff-inter: "Inter", sans-serif;
+  --gray: #667085;
+  --gray100: #eaecf0;
+  --gray200: #d0d5dd;
+  --gray700: #344054;
+  --gray600: #475467;
+  --gap: 24px;
+  --primary300: #84caff;
+  --black: #101828;
 }
 
 body {
@@ -21,5 +29,26 @@ body {
   body {
     font-size: 18px;
     font-weight: 600;
+  }
+}
+
+/**
+  Utility Classes
+*/
+
+.display-grid {
+  display: grid;
+  gap: var(--gap);
+}
+
+.display-flex {
+  display: flex;
+  gap: var(--gap);
+}
+
+@media screen and (min-width: 768px) {
+  .display-flex-tab {
+    display: flex;
+    gap: var(--gap);
   }
 }

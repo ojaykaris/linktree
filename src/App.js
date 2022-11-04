@@ -6,8 +6,8 @@ import LandingPage from "./pages/landing-page/landing-page";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<LandingPage />} />
-      <Route path="/contact" element={<ContactPage />} />
+      <Route path="/linktree" element={<LandingPage />} />
+      <Route path="/linktree/contact" element={<ContactPage />} />
     </Routes>
   );
 }
