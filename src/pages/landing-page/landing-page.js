@@ -3,13 +3,13 @@ import shareIcon from "../../images/share-Icon.svg";
 import githubIcon from "../../images/github.svg";
 import slackIcon from "../../images/slack.svg";
 import dotsHorizontal from "../../images/dots-horizontal.svg";
-import zuriLogo from "../../images/zuri-logo.svg";
-import i4gLogo from "../../images/I4G-logo.svg";
 import { Button } from "../../components/button/button";
+import DefaultLayout from "../../layouts/default-layout/default-layout";
+import "./landing-page.css";
 
 function LandingPage() {
   return (
-    <>
+    <DefaultLayout>
       <div className="profile-section">
         <div className="container">
           <img src={prfImg} id="profile__img" alt="profile" />
@@ -78,14 +78,7 @@ function LandingPage() {
           <img src={githubIcon} alt="github icon" />
         </div>
       </div>
-      <footer className="footer">
-        <div className="container-fluid">
-          <img src={zuriLogo} alt="zuri logo" />
-          <p className="footer-info">HNG Internship 9 Frontend Task</p>
-          <img src={i4gLogo} alt="i4g logo" />
-        </div>
-      </footer>
-    </>
+    </DefaultLayout>
   );
 }
 
